@@ -81,6 +81,7 @@
   <ItemGroup>
     <Content Include="Sayfalar\More About Headings.html" />
     <Content Include="Sayfalar\ParagraphsAndHeadings.html" />
+    <Content Include="Sayfalar\UsingEveryHeading.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
