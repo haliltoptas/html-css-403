@@ -79,6 +79,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Sayfalar\MidLessonBreather.html" />
     <Content Include="Sayfalar\More About Headings.html" />
     <Content Include="Sayfalar\ParagraphsAndHeadings.html" />
     <Content Include="Sayfalar\UsingEveryHeading.html" />
